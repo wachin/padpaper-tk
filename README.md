@@ -9,7 +9,8 @@ Based on the original code by [Gerardo Orellana]
 
 #### Credits:
 
-- **[Washington Indacochea Delgado]**: Enhancements and modifications (2024), ported to Tkinter on Debian 12.
+- **[Washington Indacochea Delgado]**: Enhancements and modifications (2024)
+  Ported to Tkinter on Debian 12.
   *Project: Promoting Free Software in Ecuador*
   **Email**: wachin.id@gmail.com
 
