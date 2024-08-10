@@ -1,5 +1,3 @@
----
-
 ### PadPaper Editor Tkinter 2.0 - An Open Source Text Editor
 
 **Modifications by [Washington Indacochea Delgado] in [2024]**  
