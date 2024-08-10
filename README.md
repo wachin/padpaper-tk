@@ -1,5 +1,3 @@
-Here's an improved version of the text in English:
-
 ---
 
 ### PadPaper Editor Tkinter 2.0 - An Open Source Text Editor
